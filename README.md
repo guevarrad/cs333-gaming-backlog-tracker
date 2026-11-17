@@ -4,7 +4,7 @@ Name: Dennis Guevarra
 
 Project Name: Gaming Backlog Tracker
 
-GitHub Repo Link: [Add repository link after creating it]
+GitHub Repo Link:[https://github.com/guevarrad/cs333-gaming-backlog-tracker]
 
 Part 1: What it is and who it's for
 
